@@ -1,4 +1,10 @@
 ## FN510 Github
+### Some Interests
+- Machine Learning
+- Learning theory
+- Data (engineering and analysis)
+- Football
+- Popular Science
 tbc
  
 
@@ -11,4 +17,4 @@ tbc
 
 
 
-<img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' width='25px'>
+<a href='https://www.linkedin.com/in/franklin-ngemoh-736241101/'><img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' width='25px'></a>
