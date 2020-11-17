@@ -1,4 +1,6 @@
 ## FN510 Github
+<a href='https://github.com/FN510'><img src='https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png' width="25px"> Github profile</a>
+
 ### Some Interests
 - Machine Learning
 - Data (engineering and analysis)
