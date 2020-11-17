@@ -1,10 +1,10 @@
 ## FN510 Github
 ### Some Interests
 - Machine Learning
-- Learning theory
 - Data (engineering and analysis)
 - Football
 - Popular Science
+- Learning theory (how we learn)
 tbc
  
 
