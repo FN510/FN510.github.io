@@ -8,10 +8,11 @@
 tbc
  
 
-## Things to try/Games 🤠
+## Things to try/see/Games 🤠
 
 - [Patta](https://fn510.github.io/patta/) (keyboard required)
 - [RGB Game](https://fn510.github.io/ColourGame/)
+- [Image gallery](https://fn510.github.io/ImageGallery/)
 
 
 
