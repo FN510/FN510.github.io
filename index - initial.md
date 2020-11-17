@@ -28,11 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Things to try/Games
-
-- [Patta](https://fn510.github.io/patta/) 
-- [RGB Game](https://fn510.github.io/ColourGame/)
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FN510/FN510.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
