@@ -1,12 +1,12 @@
 ## FN510 Github
 <a href='https://github.com/FN510'><img src='https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png' width="25px"> Github profile</a>
 
-### Some Interests
+### Some Interests 
 - Machine Learning
+- Backend software development
 - Data (engineering and analysis)
 - Football
-- Popular Science
-- Learning theory (how we learn)
+- Popular Science <br>
 tbc
  
 
@@ -21,4 +21,4 @@ tbc
 
 
 
-<a href='https://www.linkedin.com/in/franklin-ngemoh-736241101/'><img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' width='25px'></a>
+<a href='https://www.linkedin.com/in/franklin-ngemoh'><img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' width='25px'></a>
