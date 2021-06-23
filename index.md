@@ -14,7 +14,7 @@ tbc
 
 - [Patta](https://fn510.github.io/patta/) (keyboard required)
 - [RGB Game](https://fn510.github.io/ColourGame/)
-- [Demo Campground site](https://fierce-brook-62758.herokuapp.com/)
+- [Demo Campground site](https://fn-campgroundtest.herokuapp.com/)
 - [Image gallery](https://fn510.github.io/ImageGallery/)
 
 
