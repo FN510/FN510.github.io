@@ -22,4 +22,4 @@ tbc
 
 
 
-<a href='https://www.linkedin.com/in/franklin-ngemoh'><img src='https://www.flaticon.com/svg/static/icons/svg/145/145807.svg' width='25px'></a>
+<a href='https://www.linkedin.com/in/franklin-ngemoh'><img src='./LinkedIn_icon_circle.svg' width='25px'></a>
