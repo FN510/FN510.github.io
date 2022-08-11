@@ -23,3 +23,5 @@ tbc
 
 ![LinkedIn logo](/assets/LinkedIn_icon_circle.svg)
 
+
+<a href='https://www.linkedin.com/in/franklin-ngemoh'><img src='/assets/LinkedIn_icon_circle.svg' width='25px'></a>
