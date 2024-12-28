@@ -15,14 +15,13 @@ $(document).ready(function() {
 
 	$('#bg-image').css({
         'background-image': 'url(' + images[current] + ')',
-        'transition': 'none'
+        'transition': 'all 3s ease-in-out'
     });
     
     function nextBackgroundImage() {
 		next = ++current % images.length;
         $('#bg-image').css({
             'background-image': 'url(' + images[next] + ')',
-            'transition': 'all 3s ease-in-out'
         });
     }
 
