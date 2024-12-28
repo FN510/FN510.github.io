@@ -22,7 +22,7 @@ $(document).ready(function() {
 		next = ++current % images.length;
         $('#bg-image').css({
             'background-image': 'url(' + images[next] + ')',
-            'transition': 'background-image 3s ease-in-out'
+            'transition': 'all 3s ease-in-out'
         });
     }
 
