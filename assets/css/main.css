@@ -1106,6 +1106,11 @@ input, select, textarea {
 /* BG */
 
 	#bg {
+		position: relative;
+		overflow: hidden;
+		background-size: cover; /* Ensures the image covers the entire element */
+		background-position: center; /* Centers the image */
+		background-repeat: no-repeat;
 		-moz-transform: scale(1.0);
 		-webkit-transform: scale(1.0);
 		-ms-transform: scale(1.0);
@@ -1119,7 +1124,7 @@ input, select, textarea {
 		z-index: 1;
 	}
 
-		#bg:before, #bg:after {
+		#bg-overlay, #bg-image {
 			content: '';
 			display: block;
 			position: absolute;
@@ -1129,7 +1134,7 @@ input, select, textarea {
 			height: 100%;
 		}
 
-		#bg:before {
+		#bg-overlay {
 			-moz-transition: background-color 2.5s ease-in-out;
 			-webkit-transition: background-color 2.5s ease-in-out;
 			-ms-transition: background-color 2.5s ease-in-out;
@@ -1148,7 +1153,7 @@ input, select, textarea {
 			z-index: 2;
 		}
 
-		#bg:after {
+		#bg-image {
 			-moz-transform: scale(1.125);
 			-webkit-transform: scale(1.125);
 			-ms-transform: scale(1.125);
@@ -1157,14 +1162,14 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/wheelchair-3.jpg");
+			/* background-image: url("../../images/wheelchair-3.jpg"); */
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
 		}
 
-		body.is-article-visible #bg:after {
+		body.is-article-visible #bg-image {
 			-moz-transform: scale(1.0825);
 			-webkit-transform: scale(1.0825);
 			-ms-transform: scale(1.0825);
@@ -1175,7 +1180,7 @@ input, select, textarea {
 			filter: blur(0.2rem);
 		}
 
-		body.is-preload #bg:before {
+		body.is-preload #bg-overlay {
 			background-color: #000000;
 		}
 

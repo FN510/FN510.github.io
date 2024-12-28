@@ -4,6 +4,34 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+$(document).ready(function() {
+	var current = 0;
+    var images = [
+		'./images/wheelchair-3.jpg',
+        './images/london.jpg',
+        './images/ny.jpg',
+		'./images/kynance-mews.jpg'
+    ];
+
+	$('#bg-image').css({
+        'background-image': 'url(' + images[current] + ')',
+        'transition': 'none'
+    });
+    
+    function nextBackgroundImage() {
+		next = ++current % images.length;
+        $('#bg-image').css({
+            'background-image': 'url(' + images[next] + ')',
+            'transition': 'background-image 3s ease-in-out'
+        });
+    }
+
+    // Optionally, shuffle background at intervals after a delay
+    setTimeout(function() {
+        setInterval(nextBackgroundImage, 6000); // Change image every 5 seconds
+    }, 5000); // Start shuffling after 5 seconds
+});
+
 (function($) {
 
 	var	$window = $(window),
