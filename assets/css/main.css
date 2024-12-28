@@ -1105,7 +1105,7 @@ input, select, textarea {
 
 /* BG */
 
-	#bg {
+	#bg-image {
 		position: relative;
 		overflow: hidden;
 		background-size: cover; /* Ensures the image covers the entire element */
@@ -1132,6 +1132,7 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
+			background-color: transparent;
 		}
 
 		#bg-overlay {
